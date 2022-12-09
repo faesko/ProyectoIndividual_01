@@ -4,10 +4,6 @@
 
 # <h1 align=center>**`Data Engineering`**</h1>
 
-<p align="center">
-<img src="https://.jpg"  height=300>
-</p>
-
 
 El proyecto consiste en realizar una ingesta de datos desde diversas fuentes, posteriormente aplicar las transformaciones que se consideren pertinentes, y luego disponibilizar los datos limpios para su consulta a través de una API. Esta API se construirá en un entorno virtual dockerizado.
 
